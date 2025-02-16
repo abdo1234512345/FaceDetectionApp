@@ -1,4 +1,4 @@
-package com.example.facedetection
+package com.example.face_recognition
 
 import io.flutter.embedding.android.FlutterActivity
 
