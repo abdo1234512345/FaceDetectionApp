@@ -17,7 +17,7 @@ A face detection app built with Flutter, utilizing OpenCV and ML Kit for face re
 ## Installation 🔧
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AbdelRahman Amr/face-detection-app.git
+   git clone https://github.com/abdo1234512345/face-detection-app.git
    ```
 2. Navigate to the project directory:
    ```sh
